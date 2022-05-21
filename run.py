@@ -1,2 +1,2 @@
-import legend
-legend.BABY()
+import legend_enc
+legend_enc.BABY()
